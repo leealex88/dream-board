@@ -107,10 +107,13 @@ The page includes the job title, location, description (etc.) as well as more de
 
 ---
 
+## Wins
+
+This was the first time we experienced working as part of a team and collaborating on a project on a very short timescale. In fact, the deadline for the project was only two days. 
+We brainstormed the idea we had for the project and we search for the API that didn't need authentication. We understand the documentation provided on the GitHub very quick - which saved us a lot of time. We shared the tasks and on the next day the first schema of our website was ready.   
+
+
 ## Challenges and future improvements
-
-
-This was the first time we experienced working as part of a team and collaborating on a project on a very short timescale. In fact, the deadline for the project was only two days.
 
 The first challenge we encountered was with our filterJob function. We were trying to apply the function to  three different search inputs and run the event listeners for all three of them in the same function as well. So we decided to create just one input with three different search conditions (title, description, location). We also refactored the filter function into two different ones to improve readability.
 
@@ -121,10 +124,16 @@ In terms of future improvements, instead of the filter input we would like to ad
 
 We would also like to add a "sort by recently added" option to display the most recently published job offers at the top of the page.
 
+## Key Learnings
+-  React.js
+-  publick API
+
 ## Authors
+
+
 
 Mia Meroi - Second Project
 Link to portfolio here:
 
 Aleksandra Skoczylas - Second Project
-Link to portfolio here:
+Link to portfolio here: olaskoczylas.com
